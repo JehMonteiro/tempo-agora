@@ -17,13 +17,14 @@ body {
 }
 
 .container{
-    width: 370px;
+    width: 340px;
     height: 500px;
     background: rgba(27, 24, 24, 0.342);
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
     backdrop-filter: blur(7px);
     border: 1px solid #E6E6E6;
     border-radius: 5px;
+    
     
 }
 h1 {
